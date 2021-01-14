@@ -3,7 +3,7 @@ Disciplina de Fundamentos da Internet das Coisas
 
     Criando uma estação meteorológica para internet das coisas
 
-   Nesta  atividade,  foi colocado em pratica  o  que foi aprendido por meio de um projeto para internet das coisas. Fiz uma pequena estação meteorológica  ligada à internet, Na qual é possível monitorar a temperatura e umidade em um local remoto, distribuindo em diversas localidades.
+   Nesta  atividade, eu coloquei em pratica o que aprendi por meio da realização de um projeto para internet das coisas. Fiz uma pequena estação meteorológica  ligada à internet, Na qual é possível monitorar a temperatura e umidade em um local remoto, distribuindo em diversas localidades.
     A realização desta atividade me ajudou na compreensão das principais unidades computacionais e suas funcionalidades, e  permitiu eu aperfeiçoar   minhas habilidades em resolver problemas estruturados, integrando unidades computacionais de internet das coisas.
     
     Esta Atividade Prática (ATP) está dividida em quatro etapas, sendo as três primeiras mais desafiadoras:
