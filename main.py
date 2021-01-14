@@ -1,3 +1,5 @@
+#código de Davi Ramon Gonçalves
+
 import dht
 import machine
 import time
